@@ -1,0 +1,14 @@
+body {
+  font-family: "Poppins", sans-serif;
+    color: var(--gray-dark);
+    font-weight: 400;
+    font-size: var(--font-sm);
+    line-height: 24px;
+    overflow-x: hidden;
+    position: relative;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

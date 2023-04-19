@@ -1,0 +1,145 @@
+
+/* Login page css start */
+.login-form {
+  max-width: 482px;
+  padding: 50px 25px 69px 25px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+  background-color: var(--white);
+  margin-bottom: 30px;
+  margin-left: 448px;
+  margin-top: 100px;
+}
+.login-form-forgot {
+  padding-left: 157px;
+  margin: 3px;
+}
+.login-form-button {
+  height: 58px;
+  background-color: #0f4485;
+  border-radius: 15px;
+  padding: 20px;
+  border: 0;
+  cursor: pointer;
+  width: 100%;
+  color: #fff;
+  font-weight: 600;
+  text-align: center;
+  margin:5px;
+}
+.login-logo {
+  padding: 0 0 10px;
+  text-align: center;
+}
+.text-title {
+  padding: 0 0 10px;
+  text-align: center;
+  color: #0f4485;
+  margin: 2px 0 30px;
+}
+.forgot-texts {
+  padding: 209px;
+}
+.form-control {
+  padding: 20px 25px;
+  height: auto;
+  border-radius: 15px;
+  border: 2px solid var(--gray);
+}
+.forgot-text {
+  padding: 0px
+}
+.login-logo img {
+  max-width: 250px;
+  height: auto;
+}
+a.text-titles {
+  text-align: center;
+  margin-inline: 218px;
+}
+a.text-titless {
+  text-align: center;
+  margin-inline: 186px;
+}
+.login-logo{
+  height: 0px;
+}
+.sucess{
+  color: #f1f4f1;
+  background-color: #39ac31;
+}
+/* Login page css end */
+
+
+/* page not found css start */
+
+.page_404{
+  padding: 40px 0;
+  background: #fff;
+  font-family: 'Arvo', serif;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 50.25rem;
+  margin-left: 34.25rem;
+}
+.text-center {
+  text-align: center !important;
+}
+.four_zero_four_bg {
+  background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+  height: 400px;
+  background-position: center;
+}
+.four_zero_four_bg {
+  font-size: 80px;
+}
+.contant_box_404 {
+  margin-top: -50px;
+}
+.link_404 {
+  color: #fff!important;
+  padding: 3px 22px;
+  height: 42px;
+  background: #39ac31;
+  margin: 21px 0;
+  display: inline-block;
+}
+
+/* page not found css end */
+
+/* Dashboard css start */
+
+.login-logo-top{
+  padding: 0 0 10px;
+  text-align: center;
+}
+
+.profile-header.login-logo {
+  height: 50px !important;
+}
+
+img.login-image {
+  height: 51px;
+  margin-right: 284px;
+}
+
+.usericon {
+  padding: 12px;
+  margin-inline: 840px;
+  font-size: 22px;
+}
+
+li.ant-menu-item.ant-menu-item-selected.ant-menu-item-only-child.dashboard {
+  background-color: #0f4485;
+  color: white;
+}
+
+/* Dashboard css end */
